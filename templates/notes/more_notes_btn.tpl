@@ -1,0 +1,1 @@
+<div  class="more_list_btn" id="more_notes_btn"><a href="javascript:;" onclick="get_more_notes()" class="link">&darr; Показать еще заметки</a></div>

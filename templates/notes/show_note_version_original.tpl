@@ -1,0 +1,1 @@
+<a href="javascript:;" class="link show_note_version_cont_btn" onclick="$('#version_cont_{VERSION_ID}').fadeIn(200); $('#version_show_text_{VERSION_ID}').hide()">показать оригинал</a>

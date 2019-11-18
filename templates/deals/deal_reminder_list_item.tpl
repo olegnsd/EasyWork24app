@@ -1,0 +1,1 @@
+<div class="item"><a href="/deals/edit/{DEAL_ID}?reminder_nt=1" class="link">#{DEAL_ID} {DEAL_NAME}</a></div>

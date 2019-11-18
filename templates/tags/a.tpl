@@ -1,0 +1,1 @@
+<a href="{HREF}" class="link" onclick="{ONCLICK}">{NAME}</a>

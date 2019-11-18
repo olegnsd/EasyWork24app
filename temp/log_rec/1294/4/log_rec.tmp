@@ -1,0 +1,16 @@
+        
+2019-08-22 11:53:56 client: 1294
+{"source":"com.nll.acr","secret":"4"}
+[]
+        
+2019-08-22 11:54:27 client: 1294
+{"source":"com.nll.acr","secret":"4","note":"","duration":"22462","date":"1565537820","file_name":"0d20190811183706p+380713631335.m4a"}
+{"file":{"name":"+380713631335_Wives_2019_08_11_18_37_00_[0].m4a","type":"application\/octet-stream","tmp_name":"\/home\/ersp\/tmp\/php40kf5Z","error":0,"size":76424}}
+        
+2019-08-22 11:58:33 client: 1294
+{"source":"com.nll.acr","secret":"4","note":"","duration":"54485","date":"1565779801","file_name":"0d20190814135011p+380714186012.m4a"}
+{"file":{"name":"+380714186012_Аня_К_2019_08_14_13_50_01_[0].m4a","type":"application\/octet-stream","tmp_name":"\/home\/ersp\/tmp\/phpPjxmBw","error":0,"size":180868}}
+        
+2019-08-22 17:17:11 client: 1294
+{"source":"com.nll.acr","secret":"4","note":"","duration":"22759","date":"1565543160","file_name":"1d20190811200602p+380714186012.m4a"}
+{"file":{"name":"+380714186012_Аня_К_2019_08_11_20_06_00_[1].m4a","type":"application\/octet-stream","tmp_name":"\/home\/ersp\/tmp\/phpwfHdAE","error":0,"size":77139}}

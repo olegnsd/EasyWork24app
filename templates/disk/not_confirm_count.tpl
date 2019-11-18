@@ -1,0 +1,1 @@
+<div class="fnot_confirm_count" id="fnew_count_{USER_ID}">Новых: <b><span class="count">{COUNT}</span></b></div>

@@ -1,0 +1,1 @@
+<div class="accruals_fine">Штраф: <b>{SUMMA}  руб.</b></div>

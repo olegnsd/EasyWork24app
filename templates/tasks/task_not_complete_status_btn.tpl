@@ -1,0 +1,1 @@
+<a class="button task_status_bl_{TASK_ID}" onclick="task_status({TASK_ID}, '-3', 0)" href="javascript:;" id="task_not_complete_btn_{TASK_ID}"><div class="right"></div><div class="left"></div><div class="btn_cont">еще не выполнено<span class="link_cancel">&times;</span></div></a>

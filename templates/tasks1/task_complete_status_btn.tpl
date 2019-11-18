@@ -1,0 +1,1 @@
+<a onclick="Tasks.task_status({TASK_ID}, 3)" href="javascript:;" id="task_status_btn_{TASK_ID}_3" class="btn complete">завершить выполнение задачи</a>

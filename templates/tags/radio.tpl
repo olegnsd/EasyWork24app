@@ -1,0 +1,1 @@
+<input type="radio" name="{RADIO_NAME}" value="{VALUE}" {CHECKED} id="{RADIO_ID}" /><label for="{RADIO_ID}" >{NAME}</label>

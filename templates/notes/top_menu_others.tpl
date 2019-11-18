@@ -1,0 +1,1 @@
+<a class="{ACTIVE_2}" href="?av=1">Чужие заметки</a>

@@ -1,0 +1,1 @@
+<a href="/disk?fact=c&f={FILE_ID}{PARS}">Права доступа</a>

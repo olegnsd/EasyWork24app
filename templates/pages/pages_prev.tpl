@@ -1,0 +1,1 @@
+<a href="{HREF}" class="p_arr" title="Предыдущая страница">&larr;</a>

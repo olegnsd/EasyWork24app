@@ -1,0 +1,1 @@
+<a class="button task_status_bl_{TASK_ID}" onclick="Task.task_status({TASK_ID},4)" href="javascript:;" id="task_status_btn_{TASK_ID}_4"><div class="right"></div><div class="left"></div><div class="btn_cont">не могу выполнить<span class="link_cancel">&ndash;</span></div></a>

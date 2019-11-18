@@ -1,0 +1,1 @@
+{DATE}<br /><b>{USER_SURNAME} {USER_SURNAME} {USER_SURNAME}</b> <span style='color:#999'>{USER_POSITION}</span><br /><b>{STATUS_NAME}</b><br />{REPORT}

@@ -1,0 +1,1 @@
+<div class="user_label admin_label">Администратор</div>

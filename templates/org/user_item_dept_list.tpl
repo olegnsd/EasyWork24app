@@ -1,0 +1,1 @@
+<div class="user_dept_list_item">Подразделение: {LIST}</div>

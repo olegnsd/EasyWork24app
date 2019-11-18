@@ -1,0 +1,1 @@
+<a class="button" onclick="actual_work_noticed('{WORK_ID}')" href="javascript:;" id="confirm_work_btn_{WORK_ID}"><div class="right"></div><div class="left"></div><div class="btn_cont">принять обязанность</div></a>

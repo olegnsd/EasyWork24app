@@ -1,0 +1,55 @@
+ ---------- Detected at 12.03.2017 (00:06:23)-------------- 
+IP: 127.0.0.1 
+Browser: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0 
+Port: 46026 
+Host: local.buh 
+Connection: keep-alive 
+Referer:  
+ ----------------------ServerInfo-------------------------- 
+ServerName: local.tasks 
+ServerAdres: 127.0.0.1 
+ServerPort: 80 
+WebServer: Apache 
+ServerHttpProtocol: HTTP/1.1 
+ServerGet:  
+ ----------------------VarDumpServer-------------------------- 
+HTTP_HOST: local.tasks
+HTTP_USER_AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0
+HTTP_ACCEPT: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+HTTP_ACCEPT_LANGUAGE: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_ACCEPT_ENCODING: gzip, deflate
+HTTP_COOKIE: ews=ub7runhriraho1ccfhnj8dvkp7; ews_uid=29; ews_hash=b84063756a7cce77a007720a4851878d; PHPSESSID=dodtl62er7b70no68t46pec4j1
+HTTP_CONNECTION: keep-alive
+HTTP_UPGRADE_INSECURE_REQUESTS: 1
+HTTP_CACHE_CONTROL: max-age=0
+PATH: c:\openserver\modules\php\PHP-5.6-x64\ext;c:\openserver\modules\php\PHP-5.6-x64\pear;c:\openserver\modules\php\PHP-5.6-x64\pear\bin;c:\openserver\modules\php\PHP-5.6-x64;c:\openserver\modules\imagemagick;c:\openserver\modules\wget\bin;c:\openserver\modules\git;c:\openserver\modules\git\bin;c:\openserver\modules\git\mingw\bin;c:\openserver\modules\git\cmd;c:\openserver\modules\database\MySQL-5.6-x64\bin;c:\openserver\modules\database\PostgreSQL-9.5-x64\bin;c:\openserver\modules\database\PostgreSQL-9.5-x64\lib;c:\openserver\modules\http\Apache-2.4-x64\bin;c:\openserver\modules\http\Apache-2.4-x64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Wbem;C:\WINDOWS\SysWOW64
+SystemRoot: C:\WINDOWS
+COMSPEC: C:\WINDOWS\system32\cmd.exe
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+WINDIR: C:\WINDOWS
+SERVER_SIGNATURE: 
+SERVER_SOFTWARE: Apache
+SERVER_NAME: local.tasks
+SERVER_ADDR: 127.0.0.1
+SERVER_PORT: 80
+REMOTE_ADDR: 127.0.0.1
+DOCUMENT_ROOT: C:/OpenServer/domains/local.tasks
+REQUEST_SCHEME: http
+CONTEXT_PREFIX: 
+CONTEXT_DOCUMENT_ROOT: C:/OpenServer/domains/local.tasks
+SERVER_ADMIN: [no address given]
+SCRIPT_FILENAME: C:/OpenServer/domains/local.tasks/services/deals_import/from_mielophone.php
+REMOTE_PORT: 46026
+GATEWAY_INTERFACE: CGI/1.1
+SERVER_PROTOCOL: HTTP/1.1
+REQUEST_METHOD: GET
+QUERY_STRING: 
+REQUEST_URI: /services/deals_import/from_mielophone.php
+SCRIPT_NAME: /services/deals_import/from_mielophone.php
+PHP_SELF: /services/deals_import/from_mielophone.php
+REQUEST_TIME_FLOAT: 1489266383.91
+REQUEST_TIME: 1489266383
+argv: Array
+argc: 0
+ ----------------------------------------------------------- 
+

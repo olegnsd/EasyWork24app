@@ -1,0 +1,1 @@
+<div style="padding-left:5px" class="no_messages" id="no_messages">Сообщений нет.</div>

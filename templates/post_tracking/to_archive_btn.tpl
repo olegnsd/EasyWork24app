@@ -1,0 +1,1 @@
+<a href="javascript:;" class="arch" onclick="PostTracking.archive_tracking('{TRACKING_ID}')" title="В архив"></a>

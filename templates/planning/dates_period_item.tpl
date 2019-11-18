@@ -1,0 +1,1 @@
+<div>с {DATE_FROM} по {DATE_TO}</div>

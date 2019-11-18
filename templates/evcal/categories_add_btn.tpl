@@ -1,0 +1,1 @@
+<a href="javascript:;" class="sh_add_btn" title="Добавить категорию" onclick="Evcal.get_evcal_category_add_form();"></a>

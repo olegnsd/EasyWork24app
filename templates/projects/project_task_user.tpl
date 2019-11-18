@@ -1,0 +1,1 @@
+{NAME}<input type="hidden" id="select_task_user_{TASK_ID}" value="{VALUE}" not_select=1 />

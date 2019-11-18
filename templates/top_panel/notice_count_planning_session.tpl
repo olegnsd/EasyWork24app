@@ -1,0 +1,1 @@
+<div class="tn " title="Открытая планерка">{COUNT}</div>

@@ -1,0 +1,1 @@
+<div class="accruals_debt">Оклад: <b>{SUMMA}  руб.</b></div>

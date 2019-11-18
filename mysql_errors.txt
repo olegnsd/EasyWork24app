@@ -1,0 +1,19 @@
+Could not connect to the database server (localhost, bills_user). 2019-06-06 10-29-06
+Could not connect to the database server (localhost, bills_user). 2019-06-06 10-29-06
+Could not connect to the database server (localhost, bills_user). 2019-06-06 10-29-13
+Could not connect to the database server (localhost, bills_user). 2019-06-06 10-29-33
+Could not connect to the database server (localhost, bills_user). 2019-06-06 10-29-53
+Could not connect to the database server (localhost, bills_user). 2019-06-06 10-30-13
+<b>Bad SQL Query</b>: SELECT * FROM tasks_users WHERE user_id=''<br /><b>Table 'client_1525.tasks_users' doesn't exist</b> 2019-06-10 17-32-33
+<b>Bad SQL Query</b>: SELECT position_name FROM tasks_users_positions WHERE user_id='' ORDER BY position_id DESC LIMIT 1<br /><b>Table 'client_1525.tasks_users_positions' doesn't exist</b> 2019-06-10 17-32-33
+<b>Bad SQL Query</b>: SELECT position_name, position_date FROM tasks_users_positions WHERE user_id='' ORDER BY position_id ASC<br /><b>Table 'client_1525.tasks_users_positions' doesn't exist</b> 2019-06-10 17-32-33
+<b>Bad SQL Query</b>: SELECT * FROM tasks_user_images WHERE user_id=''<br /><b>Table 'client_1525.tasks_user_images' doesn't exist</b> 2019-06-10 17-32-33
+<b>Bad SQL Query</b>: SELECT * FROM tasks_users WHERE user_id=''<br /><b>Table 'client_1525.tasks_users' doesn't exist</b> 2019-06-10 17-32-33
+<b>Bad SQL Query</b>: SELECT position_name FROM tasks_users_positions WHERE user_id='' ORDER BY position_id DESC LIMIT 1<br /><b>Table 'client_1525.tasks_users_positions' doesn't exist</b> 2019-06-10 17-32-33
+<b>Bad SQL Query</b>: SELECT position_name, position_date FROM tasks_users_positions WHERE user_id='' ORDER BY position_id ASC<br /><b>Table 'client_1525.tasks_users_positions' doesn't exist</b> 2019-06-10 17-32-33
+<b>Bad SQL Query</b>: SELECT * FROM tasks_user_images WHERE user_id=''<br /><b>Table 'client_1525.tasks_user_images' doesn't exist</b> 2019-06-10 17-32-33
+<b>Bad SQL Query</b>: SELECT COUNT(*) as count FROM tasks_reprimands WHERE worker_id=''  AND deleted&lt;&gt;1 AND noticed=0 AND type=''<br /><b>Table 'client_1525.tasks_reprimands' doesn't exist</b> 2019-06-10 17-32-33
+<b>Bad SQL Query</b>: UPDATE tasks_users SET user_last_visit_date=NOW() WHERE user_id=''<br /><b>Table 'client_1525.tasks_users' doesn't exist</b> 2019-06-10 17-32-33
+Could not connect to the database server (localhost, bills_user). 2019-07-15 22-36-58
+<b>Bad SQL Query</b>: SELECT deal_phone, deal_client_name FROM  tasks_deals WHERE deal_id  AND deal_date_add &lt;= '2018-10-30 23:59:59') AND deal_deleted = '0'<br /><b>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND deal_deleted = '0'' at line 1</b> 2019-08-18 16-47-09
+Could not connect to the database server (, ). 2019-11-16 09-39-27

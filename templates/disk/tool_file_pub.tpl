@@ -1,0 +1,1 @@
+<a href="javascript:;" onclick="Disk.open_file_pub_block('{FILE_ID}')" id="open_file_pub_block_btn_{FILE_ID}">Опубликовать в интернете..</a>

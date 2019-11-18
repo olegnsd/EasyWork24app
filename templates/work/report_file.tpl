@@ -1,0 +1,1 @@
+<div class="file_list_in_box_item"><a href="/download_wk_file/{FILE_ID}" class="link">{FILE_NAME}</a></div>

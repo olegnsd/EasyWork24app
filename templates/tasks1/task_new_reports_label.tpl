@@ -1,0 +1,1 @@
+<span class="notice_ellipse" title="Новые события">&#8226;</span>

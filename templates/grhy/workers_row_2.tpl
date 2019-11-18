@@ -1,0 +1,1 @@
+<div class="clear"></div><div style="width:{GROUP_CSS_WIDTH}px; padding-bottom:150px" class="workers_row" row="{ROW}" workers_group_count="{GROUPS_COUNT}" workers_count="{WORKERS_COUNT}">{WORKERS_GROUPS_LIST}</div>

@@ -1,0 +1,1 @@
+<a onclick="Tasks.task_status({TASK_ID}, -4)" href="javascript:;" id="task_status_btn_{TASK_ID}_-4" class="btn fail">работа не принята, дорабатывать</a>

@@ -1,0 +1,1 @@
+<div class="planning_not_confirm">Отменено</div>

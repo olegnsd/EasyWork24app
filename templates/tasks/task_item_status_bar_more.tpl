@@ -1,0 +1,1 @@
+ <a href="javascript:;" onclick="show_task_status_bar({TASK_ID})" class="link">подробнее</a>

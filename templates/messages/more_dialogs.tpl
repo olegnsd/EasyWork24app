@@ -1,0 +1,1 @@
+<div class="stand_margin" id="more_dialogs" style="margin-left:10px"><a href="javascript:;" class="link_11" onclick="get_more_dialogs()">&darr; Показать еще диалоги</a> </div>

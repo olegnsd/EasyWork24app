@@ -1,0 +1,1 @@
+<a onclick="delete_client('{CLIENT_ID}');" href="javascript:;" class="link">Удалить</a><br />

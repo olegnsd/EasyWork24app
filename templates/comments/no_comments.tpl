@@ -1,0 +1,1 @@
+<div style="margin-top:10px; margin-bottom:10px" id="no_comments">Отзывы отсутствуют.</div>

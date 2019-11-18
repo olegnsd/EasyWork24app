@@ -1,0 +1,1 @@
+<div class="user_item"><a href="/id{USER_ID}" class="link">{USER_NAME}</a></div>

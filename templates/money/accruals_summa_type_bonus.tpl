@@ -1,0 +1,1 @@
+<div class="accruals_bonus">Бонус: <b>{SUMMA}  руб.</b></div>

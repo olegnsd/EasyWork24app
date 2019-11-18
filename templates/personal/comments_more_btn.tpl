@@ -1,0 +1,1 @@
+<div style="margin-top:10px;"><a href="javascript:;" onclick="show_users_list_in_personal_block(this)" class="link_11">показать все отзывы</a></div>

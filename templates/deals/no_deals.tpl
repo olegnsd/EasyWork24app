@@ -1,0 +1,1 @@
+<tr class="deals_no"><td colspan="11">Сделок нет.</td></tr>

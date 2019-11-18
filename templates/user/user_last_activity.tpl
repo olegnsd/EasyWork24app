@@ -1,0 +1,1 @@
+<span class="user_last_activity">Заходил{SEX} {LAST_ACTIVITY_DATE} назад</span>

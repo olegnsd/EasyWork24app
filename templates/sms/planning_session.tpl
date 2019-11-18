@@ -1,0 +1,1 @@
+{USER_SURNAME} {USER_NAME} {USER_MIDDLENAME} назначил планерку {DESC}

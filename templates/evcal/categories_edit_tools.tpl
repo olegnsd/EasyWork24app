@@ -1,0 +1,1 @@
+<a class="edit_btn" href="javascript:;" onclick="Evcal.edit_evcal_category('{CATEGORY_ID}')" title="Редактировать"></a>

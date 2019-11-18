@@ -1,0 +1,1 @@
+<div class="video_ins_menu_item" rel="{VIDEO_HREF_ID}" title="{VIDEO_NAME}" onclick="show_video_ins('{VIDEO_HREF_ID}', '{SITE_PAGE}')"><div class="num">{NUM}.</div> <div class="name">{VIDEO_NAME}</div><div class="clear"></div></div>

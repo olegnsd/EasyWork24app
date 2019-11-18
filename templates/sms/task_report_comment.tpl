@@ -1,0 +1,1 @@
+{USER_SURNAME} {USER_NAME} {USER_MIDDLENAME} добавил комментарий к отчету: {COMMENT}

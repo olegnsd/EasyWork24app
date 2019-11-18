@@ -1,0 +1,1 @@
+<div class="error_box" style="display:block">Невозможно установить связь с сервером Sipuni. Проверьте настройки подключения.</div>

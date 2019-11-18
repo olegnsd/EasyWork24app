@@ -1,0 +1,1 @@
+<div style="margin-bottom:4px"><span style="color:#666; font-size:11px">{EVENT_DATE}</span> {EVENT_NAME}</div>

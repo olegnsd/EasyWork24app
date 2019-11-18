@@ -1,0 +1,1 @@
+<a href="/settings?id={USER_ID}" class="link" target="_blank">Настройки</a><br />

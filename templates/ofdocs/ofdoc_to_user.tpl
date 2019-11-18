@@ -1,0 +1,1 @@
+<img src="{AVATAR_SRC}" title="{SURNAME} {NAME}" style="width: 40px">

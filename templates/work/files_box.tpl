@@ -1,0 +1,1 @@
+<div class="file_list_in_box">{FILES_LIST}</div>

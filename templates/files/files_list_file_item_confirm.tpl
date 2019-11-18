@@ -1,0 +1,1 @@
+<div class="file_users_access_block file_status_block" id="confirm_bl_{FOLDER_ID}_{FILE_ID}"><a href="javascript:;" onclick="confirm_file('{FOLDER_ID}', '{FILE_ID}')" class="link " title="принять"><b>Принять</b></a></div>

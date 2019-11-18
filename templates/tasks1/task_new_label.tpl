@@ -1,0 +1,1 @@
+<sup class="task_new_label">Новая</sup>

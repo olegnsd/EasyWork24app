@@ -1,0 +1,1 @@
+<div class="n_contents">Новостей нет.</div>

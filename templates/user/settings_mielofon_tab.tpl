@@ -1,0 +1,1 @@
+<a href="/settings?a=in" class="item {ACTIVE_TAB_2}">Интеграция</a>

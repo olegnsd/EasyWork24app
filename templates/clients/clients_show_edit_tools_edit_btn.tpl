@@ -1,0 +1,1 @@
+<a onclick="get_client_form('{CLIENT_ID}', 1, 0)" href="javascript:;" class="link">Редактировать</a><br />

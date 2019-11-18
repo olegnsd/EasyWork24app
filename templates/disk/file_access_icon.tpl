@@ -1,0 +1,1 @@
+<a href="javascript:;" class="file_access_icon" title="Передан доступ" onclick="$('#open_file_pub_block_btn_{ELEM}').trigger('click')"></a>

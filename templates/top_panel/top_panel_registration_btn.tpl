@@ -1,0 +1,1 @@
+<a href="/registration" class="t_btn">зарегистрировать сотрудника</a>

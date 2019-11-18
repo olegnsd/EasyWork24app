@@ -1,0 +1,1 @@
+<span style="background-color:green; color:white">Поощрение</span>

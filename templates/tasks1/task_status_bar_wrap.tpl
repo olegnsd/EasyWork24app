@@ -1,0 +1,2 @@
+<div class="status_bar {STATUS_CLASS}">{STATUS} <a href="javascript:;" class="link_proc" onclick="$('#task_more_info').toggle();" style="font-size:12px; display:{DISPLAY_MORE_INF_BTN}">Подробнее</a></div>
+<div class="sub_task_status_bar_wrap" id="task_more_info">{MORE_INFO}</div>

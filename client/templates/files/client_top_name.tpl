@@ -1,0 +1,1 @@
+<div class="client_name_back"><b>{CLIENT_TYPE} {CLIENT_NAME}</b></div><br style="clear:both" />

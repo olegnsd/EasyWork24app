@@ -1,0 +1,1 @@
+<a class="hide_p_ev_btn" href="javascript:;" onclick="Evcal.hide_history_item('{EVENT_ID}')">скрыть</a>

@@ -1,0 +1,1 @@
+<a class="button task_status_bl_{TASK_ID} " onclick="task_status({TASK_ID}, 1)" href="javascript:;" id="task_confirm_btn_{TASK_ID}"><div class="right"></div><div class="left"></div><div class="btn_cont">принято</div></a>

@@ -1,0 +1,2 @@
+<a class="button" href="/clients?show=1&id={CLIENT_ID}" id="add_deal_btn" title="подробнее">
+    	<div class="right"></div><div class="left"></div><div class="btn_cont"><div class="button_sh"></div></div></a>

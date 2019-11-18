@@ -1,0 +1,1 @@
+<a href="javascript:;" class="link_11" onclick="get_search_messages_more()">предыдущие сообщения.. <img src="/img/ajax-loader.gif" /></a>

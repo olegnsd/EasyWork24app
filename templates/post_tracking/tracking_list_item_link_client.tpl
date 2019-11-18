@@ -1,0 +1,1 @@
+<div><span style="background-color:#60cd9b; color:#FFF">Клиент</span>: <a href="/clients?show=1&id={CLIENT_ID}" class="link" target="_blank">{CLIENT_NAME}</a></div><br />

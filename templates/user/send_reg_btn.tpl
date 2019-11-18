@@ -1,0 +1,1 @@
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:;" onclick="send_reg_data_to_user('{USER_ID}')" id="send_reg_data_to_user_btn" class="link">Выслать логин по смс</a>

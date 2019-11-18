@@ -1,0 +1,1 @@
+<div style="margin-top:40px"><span style="background-color:#9C0; color:#FFF">Активная задача</span>: <a href="/tasks#task_{TASK_ID}" class="link" target="_blank">{TASK_THEME}</a></div><br />

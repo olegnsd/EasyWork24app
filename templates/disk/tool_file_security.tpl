@@ -1,0 +1,1 @@
+<a href="javascript:;" onclick="Disk.open_access_block('file_{FILE_ID}')" id="open_file_pub_block_btn_file_{FILE_ID}">Дать доступ к файлу..</a>

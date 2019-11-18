@@ -1,0 +1,1 @@
+<a href="javascript:;" onclick="Disk.rename_file(0, '{FOLDER_ID}')">Переименовать</a>

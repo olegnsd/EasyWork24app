@@ -1,0 +1,1 @@
+<a href="javascript:;" onclick="Disk.open_access_block('folder_{FOLDER_ID}')" id="open_file_pub_block_btn_folder_{FOLDER_ID}">Дать доступ к папке..</a>

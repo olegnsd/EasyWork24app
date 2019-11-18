@@ -1,0 +1,1 @@
+| Уведомление о этапах работы по SMS: <input id="sms_notice_{TASK_ID}" type="checkbox" {SMS_NOTICE_CHECKED} onchange="change_task_sms_notice('{TASK_ID}')" /> <b><label for="sms_notice_{TASK_ID}" >Да</label></b> <span id="sms_notice_res_{TASK_ID}"></span>

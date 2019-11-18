@@ -1,0 +1,1 @@
+<a href="/msgs?group_id={GROUP_ID}" class="link">> Планерка. Проводит: {SURNAME} {NAME} {MIDDLENAME}</a>

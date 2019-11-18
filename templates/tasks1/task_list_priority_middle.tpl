@@ -1,0 +1,1 @@
+<span style="color:#999" title="Средняя">С</span>

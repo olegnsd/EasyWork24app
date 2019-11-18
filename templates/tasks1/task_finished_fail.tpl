@@ -1,0 +1,1 @@
+<a onclick="Tasks.task_status({TASK_ID}, 5)" href="javascript:;" class="btn fail" id="task_status_btn_{TASK_ID}_5">с заданием не справился<span class="link_cancel">&times;</span></a>

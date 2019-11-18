@@ -1,0 +1,1 @@
+<div class="grhy_cont_type_list"><div class="kpd">{USER_EFFICIENCY} %</div></div>

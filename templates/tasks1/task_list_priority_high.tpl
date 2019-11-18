@@ -1,0 +1,1 @@
+<span style="color:#f16000; font-weight:bold" title="Высокая">В</span>

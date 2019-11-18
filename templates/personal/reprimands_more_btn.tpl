@@ -1,0 +1,1 @@
+<div style="margin-top:10px;" id="show_reprimands_btn"><a href="javascript:;" onclick="$('#show_reprimands_btn').hide(); $('#reprimands_list_hidden').show()" class="link_11">показать все выговоры</a></div>

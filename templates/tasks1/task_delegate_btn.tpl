@@ -1,0 +1,1 @@
+<a onclick="Tasks.get_task_delegate_from({TASK_ID})" href="javascript:;" class="btn1" >делегировать<span class="link_cancel">&rarr;</span></a>

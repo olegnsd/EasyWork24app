@@ -1,0 +1,1 @@
+<div class="no_contents" id="no_money">Нет переданных финансов.</div>

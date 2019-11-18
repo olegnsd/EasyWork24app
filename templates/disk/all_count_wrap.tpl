@@ -1,0 +1,1 @@
+<div class="tb">Всего: {ALL_COUNT}</div>

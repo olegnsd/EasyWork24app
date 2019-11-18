@@ -1,0 +1,1 @@
+<div class="no_contents">Активность за {DATE} отсутствует.</div>

@@ -1,0 +1,1 @@
+<a href="/money?id={USER_ID}&payments=1" class="link">Показать выплаты сотрудника</a>

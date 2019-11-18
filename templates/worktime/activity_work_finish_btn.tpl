@@ -1,0 +1,2 @@
+<a class="button" onclick="change_user_activity_work_status(2)" href="javascript:;" id="change_user_activity_btn"><div class="right"></div><div class="left"></div><div class="btn_cont">закончить работать<span class="link_cancel">&times;</span></div></a>
+<div class="clear"></div>

@@ -1,0 +1,1 @@
+<a href="javascript:;" class="link_11" onclick="get_more_msgs('next')"><img src="/img/ajax-loader.gif" /></a> 

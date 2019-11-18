@@ -1,0 +1,1 @@
+<a class="{ACTIVE_2}" href="/deals?list=wks">Сделки моих сотрудников</a>

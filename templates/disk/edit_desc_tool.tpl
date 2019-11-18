@@ -1,0 +1,1 @@
+<div class="edit_tools"><a class="edit" title="редактировать описание" href="javascript:;" onclick="Disk.file_edit_desc('{FILE_ID}')"></a></div>

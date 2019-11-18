@@ -1,0 +1,1 @@
+<div id="activity_work_buttons" class="wktime_change_status_btn_block" >{BUTTONS}</div>

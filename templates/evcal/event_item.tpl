@@ -1,0 +1,1 @@
+<a href="javascript:;" class="ev_item {EVENT_TYPE_CLASS}" event_id='{EVENT_ID}' onmouseover="$('.ev_item[event_id={EVENT_ID}]').addClass('ev_item_over')"   onmouseout="$('.ev_item[event_id={EVENT_ID}]').removeClass('ev_item_over')" onclick="Evcal.get_events_list(this, '{EVENT_ID}')" style="{CATEGORY_COLOR}">{EVENT_NAME}</a>

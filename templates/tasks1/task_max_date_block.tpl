@@ -1,0 +1,1 @@
+<span class="{CLASS}" style="white-space:nowrap"><b style="color:red">!</b>  Выполнить до: {DATE} {EXPIRED_DATE}</span> | 

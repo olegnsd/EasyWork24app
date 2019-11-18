@@ -1,0 +1,16 @@
+RewriteEngine on
+DirectoryIndex index.php
+Options -Indexes
+ 
+
+
+
+RewriteRule ^auth$ index.php?o=auth [L,QSA]
+RewriteRule ^exit$ index.php?o=exit [L,QSA]
+RewriteRule ^msgs$ index.php?o=msgs [L,QSA]
+RewriteRule ^files$ index.php?o=files [L,QSA]
+RewriteRule ^download/(.*)$ index.php?o=download&file_id=$1 [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?o=$1 [QSA]

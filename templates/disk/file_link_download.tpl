@@ -1,0 +1,1 @@
+<a href="{DOWNLOAD_LINK}" class="file_name" id="name_a_file_{FILE_ID}" onclick="document.location.href='{DOWNLOAD_LINK}'" title="{FILE_NAME_CUT}">{FILE_NAME}</a>

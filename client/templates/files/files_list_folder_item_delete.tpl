@@ -1,0 +1,1 @@
+<div class="edit_tools"><a href="javascript:;" onclick="delete_folder('{FOLDER_ID}')" class="delete" title="удалить папку"></a></div>

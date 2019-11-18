@@ -1,0 +1,1 @@
+<div style="margin-top:10px;" id="show_w_r_btn"><a href="javascript:;" onclick="$('#show_w_r_btn').hide(); $('#work_reports_list_hidden').show()" class="link_11">показать все отчеты</a></div>

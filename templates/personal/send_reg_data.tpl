@@ -1,0 +1,1 @@
+<div><a class="link" href="/settings?id={USER_ID}">¬ыслать по смс регистрационные данные</a></div>

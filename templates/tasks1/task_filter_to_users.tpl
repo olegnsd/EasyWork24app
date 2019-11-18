@@ -1,0 +1,1 @@
+<div class="it">Кому <select id="filter_user" style="width:140px" onchange="Tasks.tasks_filter();"><option value="0">Всем</option><option disabled="disabled">------------</option>{LIST}</select></div>

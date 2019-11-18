@@ -1,0 +1,1 @@
+<a href="/finances/edit/{FINANCE_ID}" class="link">Редактировать</a>

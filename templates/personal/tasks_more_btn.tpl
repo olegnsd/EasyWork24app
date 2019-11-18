@@ -1,0 +1,1 @@
+<div style="margin-top:10px;" id="show_tasks_btn"><a href="javascript:;" onclick="$('#show_tasks_btn').hide(); $('#tasks_list_hidden').show()" class="link_11">показать все активные задачи</a></div>

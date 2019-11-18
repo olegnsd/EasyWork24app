@@ -1,0 +1,1 @@
+<div class="last_msg_read_date">последнее сообщение прочитано {DATE_READ}</div>

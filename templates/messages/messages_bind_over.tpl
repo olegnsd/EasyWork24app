@@ -1,0 +1,1 @@
+onmouseover="msg_read('{MESSAGE_ID}', 0)"

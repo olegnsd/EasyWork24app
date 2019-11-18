@@ -1,0 +1,1 @@
+<div class="edit_tools"><a class="edit" href="javascript:;" onclick="get_comment_edit_form('{COMMENT_ID}')"></a><a class="delete" href="javascript:;" onclick="delete_comment('{COMMENT_ID}')"></a></div>

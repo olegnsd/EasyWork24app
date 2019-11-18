@@ -1,0 +1,1 @@
+<div class="no_contents" style="margin-top:20px">Заданий нет.</div>

@@ -1,0 +1,1 @@
+<div class="new_task_reports_block" id="new_task_reports_{TASK_ID}"><div class="report_icon"></div>(+ <span id="new_task_reports_count_{TASK_ID}">{NEW_REPORTS_COUNT}</span>)</div>

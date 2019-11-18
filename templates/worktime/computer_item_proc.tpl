@@ -1,0 +1,1 @@
+<a href="/wktime?cmp=1&id={COMPUTER_ID}" id="user_computer_a_{ACTIVITY_ID}" class="link">{COMPUTER_NAME}</a>

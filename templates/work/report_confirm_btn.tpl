@@ -1,0 +1,1 @@
+<a class="button" onclick="confirm_work_report('{REPORT_ID}', '{WORK_ID}')" href="javascript:;" id="confirm_report_{REPORT_ID}"><div class="right"></div><div class="left"></div><div class="btn_cont">принять отчет</div></a>

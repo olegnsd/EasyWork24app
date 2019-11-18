@@ -1,0 +1,1 @@
+<div class="file_users_access_block file_status_block" id="hide_bl_{FOLDER_ID}_{FILE_ID}"><a href="javascript:;" onclick="hide_file('{FOLDER_ID}', '{FILE_ID}')" class="link " title="принять">Скрыть</a></div>

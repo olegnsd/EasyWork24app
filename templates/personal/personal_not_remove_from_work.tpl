@@ -1,0 +1,1 @@
+<div id="remove_from_work"><a class="link" href="javascript:;" onclick="user_remove_from_work('{USER_ID}')">Вернуть к работе</a></div>

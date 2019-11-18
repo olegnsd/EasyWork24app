@@ -1,0 +1,1 @@
+<a href="javascript:;" class="link_11" id="more_msgs" onclick="get_more_msgs_group()">Предыдущие сообщения</a><br /><br />

@@ -1,0 +1,1 @@
+<a href="javascript:;" class="wkact_btn wkact_btn_start start" onclick="change_user_activity_work_status(1,1)" id="change_us_activity_tpp"><span class="btn_cont">Начать работать</span></a>

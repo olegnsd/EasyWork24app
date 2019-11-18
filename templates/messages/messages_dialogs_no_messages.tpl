@@ -1,0 +1,1 @@
+<div class="no_contents stand_margin_left">Диалогов нет.</div>

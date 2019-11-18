@@ -1,0 +1,1 @@
+<a class="button task_status_bl_{TASK_ID}" onclick="task_status({TASK_ID},2,0)" href="javascript:;" id="task_proc_btn_{TASK_ID}"><div class="right"></div><div class="left"></div><div class="btn_cont">выполняется</div></a>

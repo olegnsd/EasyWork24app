@@ -1,0 +1,1 @@
+<span style="color:grey" class="not_confirm">Не принято</span>

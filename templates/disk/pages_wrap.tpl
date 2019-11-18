@@ -1,0 +1,1 @@
+<div class="tb" style="padding-top:0px"><div style="float:left; padding:6px 6px 0px 0px; ">Страницы:</div>{PAGES}</div>

@@ -1,0 +1,1 @@
+<a href="/disk?fid={FOLDER_ID}">Открыть</a>

@@ -1,0 +1,1 @@
+<div class="task_desired_date_block">желаемое время выполнения до <b>{DESIRED_DATE}</b></div>

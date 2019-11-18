@@ -1,0 +1,1 @@
+Вас ожидает {FROM_USER_SURNAME} {FROM_USER_NAME} в системе EasyWork24. {SITE} Логин: {LOGIN}

@@ -1,0 +1,1 @@
+<div class="task_ext_status_fail">{STATUS}</div>

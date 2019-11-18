@@ -1,0 +1,1 @@
+| Уведомление о новых отчетах  по SMS: <input id="sms_notice" type="checkbox" {SMS_NOTICE_CHECKED} onchange="change_new_work_reports_notice('{WORK_ID}')" /> <b><label for="sms_notice">Да</label></b> <span id="sms_notice_res"></span>

@@ -1,0 +1,1 @@
+<div class="planning_confirm">Подтверждено</div>

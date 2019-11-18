@@ -1,0 +1,1 @@
+<a href="{HREF}" title="Ñëåäóşùàÿ ñòğàíèöà" class="p_arr">&rarr;</a>

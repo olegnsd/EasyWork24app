@@ -1,0 +1,1 @@
+<a href="javascript:;" onclick="show_access_deal_block('{DEAL_ID}')" class="access_btn link">Передать сделку</a>

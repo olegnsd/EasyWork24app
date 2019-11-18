@@ -1,0 +1,1 @@
+<div class="f_shara_icon"></div>

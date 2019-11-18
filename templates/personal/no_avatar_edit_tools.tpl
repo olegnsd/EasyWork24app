@@ -1,0 +1,1 @@
+<a href="/ajax/ajaxPersonal.php?mode=load_upload_user_image_form" class="link" id="user_image_form" style="color:#FFF">Загрузить фотографию</a>

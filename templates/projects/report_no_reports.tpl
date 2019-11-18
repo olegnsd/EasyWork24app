@@ -1,0 +1,1 @@
+<div class="no_contents" id="no_reports">Отчет отсутствует.</div>

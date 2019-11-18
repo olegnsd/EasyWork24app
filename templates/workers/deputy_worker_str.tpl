@@ -1,0 +1,1 @@
+<div><span class="deputy_worker_notice_str">Временный сотрудник</span></div>

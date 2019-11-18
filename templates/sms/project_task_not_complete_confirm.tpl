@@ -1,0 +1,1 @@
+{USER_SURNAME} {USER_NAME} {USER_MIDDLENAME} отклонил выполнение вашего задания в проекте "{PROJECT_NAME}"

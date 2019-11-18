@@ -1,0 +1,431 @@
+.evcal_tb_wrap
+{
+	float:left;	
+	/*box-shadow: 0 0 10px rgba(0,0,0,0.2); */
+	margin:20px 0px 20px 5px;
+	position:relative
+}
+.evcal_tb
+{	 
+	border-collapse:collapse;
+	margin:auto;
+}
+.evcal_dates
+{
+}
+.evcal_week_days tr th
+{
+	padding:10px 0px 10px 0px;
+	font-family:Century Gothic, Arial;
+	color:#333;
+	font-weight:bold;
+	background-color:#c8dce4;
+	border:1px solid #b9d3dd;
+}
+.evcal_week_days .weekend
+{
+	color:#C00
+}
+.evcal_dates tr td
+{
+	border:1px solid #e2e3f7;
+	border-collapse:collapse
+}
+.evcal_dates .cell
+{
+	vertical-align:top
+}
+.evcal_dates .cell_bl
+{
+	display:block;
+	text-decoration:none;
+	font-size:12px;
+	/*padding:10px 10px 10px 10px;*/
+	background-color:#fbfbfb;
+	text-align:left;
+	width:101px;
+	height:100px	;
+	position:relative
+}
+.evcal_dates .cell_bl .day
+{
+	background-color:#eff3f4;
+	padding:2px 0px 2px 5px;
+	font-size:13px;
+	 
+}
+.nact .day
+{
+	background-color:#f5f5f5 !important;
+}
+.evcal_dates .act
+{
+	color:#333;
+}
+  .evcal_dates .cell_active
+{
+	background-color:#eceef6 !important
+}
+.evcal_dates .nact
+{
+	color:#999;
+ 	background-color:#f8f8f8;
+}
+
+.evcal_top
+{	
+	background-repeat:repeat-x;
+	background-position:bottom;
+	 
+	margin:auto;
+	margin-top:30px
+}
+.evcal_select_month_title
+{
+	font-size:30px;
+	text-align:center;
+	float:left; width:300px
+}
+.evcal_top .evcal_nav
+{
+	font-size:20px;
+	text-decoration:none;
+	color:#999;
+}
+.evcal_top .evcal_nav:hover
+{
+	color:#000
+}
+.evcal_nav_lbl
+{
+	width:100px; 
+	border:0px solid #000; 
+	 
+	float:left;
+	text-align:right;
+	padding-top:7px
+}
+.evcal_nav_rbl
+{
+	width:100px; 
+	border:0px solid #000; 
+	 
+	float:left;
+	text-align:left;
+	padding-top:7px
+}
+.cal_events_wrap
+{
+	width:694px 
+}
+.cal_events_wrap .selected_date
+{
+	padding:10px;
+	font-size:15px;
+	background-color:#FFC
+}
+.cal_events_wrap .selected_date .add_event_btn
+{
+	font-size:14px;
+	color:#C60;
+	text-decoration:none
+}
+.cal_events_wrap .selected_date .close_20
+{
+	float:right
+}
+.cal_events_wrap .time_wrap
+{
+	clear:both
+}
+.cal_events_wrap .event_item
+{
+	padding:10px;
+	border-top:1px solid #e2e3f7;
+	position:relative
+}
+ .event_edit_form
+{
+	border-radius:0px !important
+}
+.cal_events_wrap .event_item .edit_tools
+{
+	display:block;
+	right:10px;
+}
+.event_time
+{
+	float:left;
+	width:55px;
+	font-size:11px
+	 
+}
+.event_item .event_time div
+{
+	margin-top:3px
+}
+.event_item .event_time .evend_tm
+{
+	color:#999
+}
+.event_time_sep
+{
+	 float:left;
+	 width:3px;
+	
+	 margin:0px 8px 0px 4px;
+	 height:40px
+}
+
+.event_item .event_name
+{
+	float:left;
+	width:600px;
+	overflow:hidden
+}
+.event_item .event_desc
+{
+	color:#666;
+	margin-top:6px
+}
+.cell_have_event
+{
+	position:absolute;
+	width:10px;
+	height:10px;
+	border-radius:10px;
+	border:1px solid #C03;
+	bottom:5px;
+	right:5px;
+	background-color:#FFC
+}
+.cell_actual_date_class
+{
+	background-color:#9cbde2 !important;
+	color:#FFF;
+	font-weight:bold
+}
+.show_other_evcal
+{
+	float:left; padding:12px 0px 0px 3px;
+	 
+}
+.show_other_evcal select
+{
+	width:130px
+}
+.cell_bl .more_btn
+{
+	text-decoration:none;
+	padding-left:5px;
+	color:#666;
+	margin-top:4px;
+	display:block;
+	 
+	border-radius:3px;
+	padding:2px;
+	margin:2px 0px 2px 10px;
+	font-size:11px
+}
+.ev_item
+{
+	padding:1px 0px 1px 3px;
+	margin:2px 2px 2px 2px;
+	border-radius:3px;
+	font-size:11px;
+	height:14px;
+	overflow:hidden;
+	display:block;
+	text-decoration:none;
+	white-space: nowrap;
+	color:#FFF
+	 
+}
+/*.ev_item:hover
+{
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}*/
+.ev_item_1
+{
+	background-color:#96c83b;
+	color:#FFF
+}
+.ev_item_2
+{
+	background-color:#b760cd;
+	color:#FFF
+}
+.ev_item_3
+{
+	background-color:#5d7faa;
+	color:#FFF
+}
+/*.ev_item_1:hover
+{
+	background-color:#a5db42;
+}*/
+
+ 
+.ev_item_over 
+{
+	background-color:#ffdd8b !important;
+	color:#333;
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.ev_item:hover
+{
+	background-color:#fec743;
+}
+.evcal_dates .pop_bl
+{
+	padding:10px;
+	border:1px solid #CCC;
+	box-shadow: 0 0 10px rgba(0,0,0,0.4);
+	position:absolute;
+	 
+	left:0px;
+	z-index:11;
+	background-color:#FFF;
+	min-width:150px;
+	min-height:20px
+}
+.event_list_tb
+{
+	width:100%;
+	margin-top:10px
+}
+.event_list_tb .event_active td
+{
+	background-color:#fff9e0
+}
+.event_list_tb .edit_tools
+{
+	position:relative
+}
+.event_list_tb thead tr th
+{
+	padding:4px;
+	text-align:left;
+	color:#999
+}
+.event_list_tb tr td
+{
+	border:none;
+	padding:15px 4px 15px 4px;
+	border-bottom:1px solid #CCC;
+	text-align:left;
+	vertical-align:top
+}
+.event_list_tb .event_desc
+{
+	color:#666
+}
+.types_list_wrap
+{
+	margin-top:8px
+}
+.types_list_wrap .tit
+{
+	 
+	margin:2px 2px 2px 2px;
+	border-radius:3px;
+	font-size:11px;
+	 
+	 
+	display:block;
+	text-decoration:none;
+	white-space: nowrap;
+	cursor:pointer;
+	color:#FFF;
+	position:relative;
+	padding:2px 0px 0px 0px
+}
+.types_list_wrap .tit checkbox
+{
+	margin:0px !important;
+	padding:0px
+}
+.types_list_wrap .edit_btn
+{
+	background-image:url('/img/edit.png');
+	display:block;
+	width:12px;
+	height:12px;
+	position:absolute;
+	margin:-16px 0px 0px 180px
+}
+.sh_add_btn
+{
+	display:block;
+	background-image:url('/img/plus.png');
+	width:12px;
+	height:12px;
+	float:right
+}
+.sh_add_btn:hover
+{
+	background-position:0 -12px
+}
+.evcal_types_wrap
+{
+	margin-top:30px; 
+	background-color:#f7f7f7;
+	padding:10px
+}
+.evcal_types_lines_wrap
+{
+	width:200px;
+	float:right;
+}
+.evcal_types_add_wrap
+{
+	 
+}
+.evcal_types_add_wrap .tlt
+{
+	font-size:12px;
+	margin-bottom:10px;
+	font-weight:bold
+}
+.evcal_types_add_wrap table tr td
+{
+	padding-right:10px;
+	padding-bottom:10px
+}
+.add_type_btn
+{
+	display:inline-block;
+	color:#09C;
+	text-decoration:none;
+	border-bottom:1px dashed #09C;
+	margin-right:15px
+}
+.colors_wrap
+{
+	width:220px
+}
+.colors_wrap a
+{
+	display:block;
+	float:left;
+	width:20px;
+	height:20px;
+	margin-right:4px;
+	margin-bottom:4px;
+	cursor:pointer
+}
+.offer_events_wrap
+{
+	background-color:#FC0;
+	margin-bottom:20px
+}
+.offer_events_wrap .item
+{
+	padding:10px;
+	border-bottom:1px solid
+}
+.offer_events_title
+{
+	font-size:15px;
+	margin-bottom:10px
+}

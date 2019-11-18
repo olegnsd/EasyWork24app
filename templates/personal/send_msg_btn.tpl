@@ -1,0 +1,1 @@
+<a href="/msgs?id={USER_ID}" class="msgsend_btn" style="">Написать сообщение</a>

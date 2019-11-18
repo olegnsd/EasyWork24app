@@ -1,0 +1,1 @@
+<a href="/ucontrol?settings=1" class="item {ACTIVE_TAB_2}" id="task_tab_2" style="width:120px">Настройка модуля</a>

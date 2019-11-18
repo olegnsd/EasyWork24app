@@ -1,0 +1,77 @@
+RewriteEngine on
+RewriteBase /
+DirectoryIndex index.php
+Options -Indexes
+
+php_value upload_max_filesize 600M
+php_value post_max_size 600M
+php_value max_execution_time 300
+php_value max_input_time 300
+ 
+
+ 
+#“бираем прямой доступ к файлам и папке с файлами пользователей
+#RewriteRule upload/(.*)\/files/(.*)$ http://domain.com/$1 [R=400,L]
+RewriteRule upload/d/(.*)$ http://domain.com/$1 [R=400,L]
+
+RewriteRule ^auth$ index.php?o=auth [L,QSA]
+RewriteRule ^exit$ index.php?o=exit [L,QSA]
+RewriteRule ^settings$ index.php?o=settings [L,QSA]
+RewriteRule ^workers$ index.php?o=workers [L,QSA]
+RewriteRule ^colleagues$ index.php?o=colleagues [L,QSA]
+RewriteRule ^tasks$ index.php?o=tasks [L,QSA]
+RewriteRule ^task_to_users$ index.php?o=task_to_users [L,QSA]
+RewriteRule ^work$ index.php?o=work [L,QSA]
+RewriteRule ^boss$ index.php?o=boss [L,QSA]
+RewriteRule ^msgs$ index.php?o=msgs [L,QSA]
+RewriteRule ^registration$ index.php?o=registration [L,QSA]
+RewriteRule ^registration$ index.php?o=registration [L,QSA]
+RewriteRule ^files$ index.php?o=files [L,QSA]
+RewriteRule ^disk$ index.php?o=disk [L,QSA]
+RewriteRule ^disk/download/(.*)$ index.php?o=disk_download&id=$1 [L,QSA]
+RewriteRule ^disk/gdrive/auth$ index.php?o=disk_gdrive_auth&id=$1 [L,QSA]
+RewriteRule ^disk/doc/edit/([0-9]+)$ index.php?o=disk_doc_edit&id=$1 [L,QSA]
+RewriteRule ^file/pub/(.*)$ index.php?o=pub_file&id=$1 [L,QSA]
+RewriteRule ^download/(.*)$ index.php?o=download&file_id=$1 [L,QSA]
+RewriteRule ^cl_download/(.*)$ index.php?o=cl_download&file_id=$1 [L,QSA]
+RewriteRule ^comments$ index.php?o=comments [L,QSA]
+RewriteRule ^id([0-9]+)$ index.php?o=personal&user_id=$1 [L,QSA]
+RewriteRule ^contacts/([0-9]+)$ index.php?o=contacts&user_id=$1 [L,QSA]
+RewriteRule ^contacts index.php?o=contacts [L,QSA]
+RewriteRule ^tree/([0-9]+)$ index.php?o=tree&user_id=$1 [L,QSA]
+RewriteRule ^deals$ index.php?o=deals  [L,QSA]
+RewriteRule ^deals/edit/([0-9]+)$ index.php?o=deals&deal_id=$1 [L,QSA]
+RewriteRule ^deals/([0-9]+)/downl_call/([0-9]+)$ index.php?o=deals&downl_call=1&user_id=$1&deal_id=$2 [L,QSA]
+RewriteRule ^deals/([0-9]+)$ index.php?o=deals&user_id=$1 [L,QSA]
+RewriteRule ^clients/([0-9]+)$ index.php?o=clients&user_id=$1 [L,QSA]
+RewriteRule ^clients$ index.php?o=clients [L,QSA]
+RewriteRule ^efficiency$ index.php?o=efficiency [L,QSA]
+RewriteRule ^goods/edit/([0-9]+)$ index.php?o=goods&good_id=$1 [L,QSA]
+RewriteRule ^goods/([0-9]+)$ index.php?o=goods&user_id=$1 [L,QSA]
+RewriteRule ^goods$ index.php?o=goods [L,QSA]
+RewriteRule ^money/([0-9]+)$ index.php?o=money&id=$1 [L,QSA]
+RewriteRule ^money$ index.php?o=money [L,QSA]
+RewriteRule ^wktime$ index.php?o=wktime [L,QSA]
+RewriteRule ^wktime/([0-9]+)$ index.php?o=wktime&user_id=$1 [L,QSA]
+RewriteRule ^cam$ index.php?o=cam [L,QSA]
+RewriteRule ^cam/([0-9]+)$ index.php?o=cam&user_id=$1 [L,QSA]
+RewriteRule ^auto/([0-9]+)$ index.php?o=auto&user_id=$1 [L,QSA]
+RewriteRule ^finances/edit/([0-9]+)$ index.php?o=finances&finance_id=$1 [L,QSA]
+RewriteRule ^finances/([0-9]+)$ index.php?o=finances&user_id=$1 [L,QSA]
+RewriteRule ^finances$ index.php?o=finances&user_id=$1 [L,QSA]
+RewriteRule ^planning$ index.php?o=planning [L,QSA]
+RewriteRule ^ofdocs$ index.php?o=ofdocs [L,QSA]
+RewriteRule ^reprimand$ index.php?o=reprimand [L,QSA]
+RewriteRule ^download_wk_file/([0-9]+)$ index.php?o=download_wk_file&file_id=$1 [L,QSA]
+RewriteRule ^deputy$ index.php?o=deputy [L,QSA]
+RewriteRule ^external$ index.php?o=external [L,QSA]
+RewriteRule ^notes$ index.php?o=notes [L,QSA]
+RewriteRule ^notes$ index.php?o=notes [L,QSA]
+RewriteRule ^projects$ index.php?o=projects [L,QSA]
+RewriteRule ^grhy$ index.php?o=grhy [L,QSA]
+RewriteRule ^cnews$ index.php?o=cnews [L,QSA]
+RewriteRule ^posttr$ index.php?o=posttr [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?o=$1 [QSA]

@@ -1,0 +1,1 @@
+<a href="/msgs?id={USER_ID}" class="link">Написать сообщение</a><br />

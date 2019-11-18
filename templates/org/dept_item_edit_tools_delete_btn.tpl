@@ -1,0 +1,1 @@
+<a href="javascript:;" class="delete" onclick="Org.delete_dept('{DEPT_ID}', '{DEPT_NAME}');" title="Удалить подразделение"></a>

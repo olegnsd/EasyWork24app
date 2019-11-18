@@ -1,0 +1,1 @@
+<a href="javascript:;" onclick="Disk.delete_file('folder_{FOLDER_ID}')">Удалить</a>

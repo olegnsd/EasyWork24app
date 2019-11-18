@@ -1,0 +1,1 @@
+<div class="notice_sub_comment">"{COMMENT_TEXT}"</div>

@@ -1,0 +1,1 @@
+<span style="color:#999">Статуса нет <a id="posttr_update_status_btn_{TRACKING_ID}" href="javascript:;" class="link posttr_update_status_btn" onclick="PostTracking.update_tarcking_status('{TRACKING_ID}')">обновить</a></span>

@@ -1,0 +1,1 @@
+<div class="status" status_class="{STATUS_CLASS}" default_info=1>{STATUS_ONLINE}{ACTIVITY_STATUS}</div>

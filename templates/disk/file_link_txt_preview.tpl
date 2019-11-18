@@ -1,0 +1,1 @@
+<a href="javascript:;" class="file_name" onclick="Disk.show_file_popup('{FILE_ID}','doc', '{CONT_ID}')" id="name_a_file_{FILE_ID}" title="{FILE_NAME}">{FILE_NAME_CUT}</a>

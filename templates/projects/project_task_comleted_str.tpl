@@ -1,0 +1,1 @@
+<div class="project_task_completed_str">Задание выполнено</div>

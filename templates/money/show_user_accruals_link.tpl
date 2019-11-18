@@ -1,0 +1,1 @@
+<a href="/money?accruals=1&id={USER_ID}" class="link">Показать начисления сотрудника</a>

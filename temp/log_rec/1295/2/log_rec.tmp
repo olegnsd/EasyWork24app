@@ -1,0 +1,12 @@
+        
+2019-08-22 11:34:06 client: 1295
+{"secret":"2"}
+[]
+        
+2019-08-22 11:50:43 client: 1295
+{"source":"com.nll.acr","secret":"2"}
+[]
+        
+2019-08-22 11:50:56 client: 1295
+{"source":"com.nll.acr","secret":"2","note":"","duration":"8957","date":"1565958602","file_name":"1d20190816153028p411.m4a"}
+{"file":{"name":"411_2019_08_16_15_30_02_[1].m4a","type":"application\/octet-stream","tmp_name":"\/home\/ersp\/tmp\/phpnqzWbP","error":0,"size":32565}}

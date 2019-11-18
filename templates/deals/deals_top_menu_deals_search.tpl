@@ -1,0 +1,1 @@
+<a class="{ACTIVE_3}" href="/deals?list=all">Поиск сделок по всей организации</a>

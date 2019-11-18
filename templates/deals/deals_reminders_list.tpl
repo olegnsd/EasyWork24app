@@ -1,0 +1,1 @@
+{DEALS_LIST}

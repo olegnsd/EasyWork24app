@@ -1,0 +1,2 @@
+<a onclick="Tasks.edit_task('{TASK_ID}');" href="javascript:;" class="btn1" >редактировать</a>
+<a onclick="Tasks.task_delete({TASK_ID})" href="javascript:;" class="btn1 delete" >удалить<span class="link_cancel">&times;</span></a>

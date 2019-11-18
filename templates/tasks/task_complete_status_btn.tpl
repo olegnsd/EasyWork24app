@@ -1,0 +1,1 @@
+<a class="button task_status_bl_{TASK_ID}" onclick="task_status({TASK_ID}, 3)" href="javascript:;" id="task_complete_btn_{TASK_ID}"><div class="right"></div><div class="left"></div><div class="btn_cont">выполнено</div></a>

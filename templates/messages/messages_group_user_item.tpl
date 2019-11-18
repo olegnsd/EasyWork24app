@@ -1,0 +1,1 @@
+<div class="msgs_group_user_item"><a href="/id{USER_ID}" class="user_link" target="_blank">{SURNAME} {NAME} {MIDDLENAME}</a><br /> <span class="user_position">{USER_POSITION}</span> {ONLINE}</div>

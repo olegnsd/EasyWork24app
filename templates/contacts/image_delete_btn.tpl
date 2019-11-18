@@ -1,0 +1,1 @@
+<br><a href="javascript:;" class="link" onclick="delete_contact_uploaded_img('{CONTACT_ID}')">Удалить</a>

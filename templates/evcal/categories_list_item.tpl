@@ -1,0 +1,1 @@
+<a class="tit" style="background-color:#{CATEGORY_COLOR}"><input type="checkbox" checked="checked" value="{CATEGORY_ID}" option="1" /> {CATEGORY_NAME}</a>{EDIT_TOOLS}

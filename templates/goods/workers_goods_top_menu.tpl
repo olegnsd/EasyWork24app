@@ -1,0 +1,1 @@
+<a href="/goods?wks=1" class="files_menu_top_a {ACTIVE_2}">Имущество моих сотрудников</a>

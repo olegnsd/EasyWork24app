@@ -1,0 +1,1 @@
+<a href="javascript:;" class="wkact_btn finish" onclick="change_user_activity_work_status(2,1)" id="change_us_activity_tpp"><span class="btn_cont">Закончить работать</span></a>

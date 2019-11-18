@@ -1,0 +1,1 @@
+<div class="stand_margin"><a class="add_type_btn" href="javascript:;" onclick="Evcal.event_offer_form('{EVENT_ID}');">Предложить событие</a></div>

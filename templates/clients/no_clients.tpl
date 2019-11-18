@@ -1,0 +1,1 @@
+<tr><td colspan="12"><div class="no_contents">Контрагентов нет.</div></td></tr>

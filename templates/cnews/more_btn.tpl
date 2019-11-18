@@ -1,0 +1,1 @@
+<div class="more_list_btn" id="more_cnews_btn"><a href="javascript:;" onclick="get_more_cnews()" class="link">&darr; предыдущие новости</a></div>

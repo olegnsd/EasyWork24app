@@ -1,0 +1,1 @@
+<div style="margin-top:10px" class="deals_no">Сделки не найдены.</div>

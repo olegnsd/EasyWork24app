@@ -1,0 +1,1 @@
+<div class="workers_group" boss_id="{BOSS_ID}" row="{ROW}"><div style="margin-left:-2px">{WORKERS_LIST}</div><div class="clear"></div></div>

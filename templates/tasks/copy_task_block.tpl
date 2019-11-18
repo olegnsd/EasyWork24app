@@ -1,0 +1,1 @@
+<a style="display:block; float:right" href="javascript:;" onclick="copy_task('{TASK_ID}')" class="link">перепоручить</a>

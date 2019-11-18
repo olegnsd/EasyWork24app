@@ -1,0 +1,2 @@
+<a class="button" onclick="project_confirm('{PROJECT_ID}')" href="javascript:;" id="project_confirm_btn_{PROJECT_ID}">
+<div class="right"></div><div class="left"></div><div class="btn_cont">принять</div></a>

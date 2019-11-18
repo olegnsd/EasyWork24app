@@ -1,0 +1,1 @@
+<a href="javascript:;" onclick="delete_note_version('{VERSION_ID}', '{NOTE_ID}');" class="delete"></a>

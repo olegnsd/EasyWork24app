@@ -1,0 +1,1 @@
+<div><span class="task_ext_status_warning">!</span>&nbsp; {STATUS}</div>

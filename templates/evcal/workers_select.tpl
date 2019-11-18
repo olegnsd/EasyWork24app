@@ -1,0 +1,1 @@
+<div class="show_other_evcal"><select onchange="Evcal.show_evcal(this)"><option value="0">Мой календарь</option>{WORKERS_LIST}</select></div>

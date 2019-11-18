@@ -1,0 +1,1 @@
+<div class="max_date_over_bl">{DATE} <br /><div class="link_с">скоро <div class=""></div><div class="pop1">меньше дня</div></div></div>

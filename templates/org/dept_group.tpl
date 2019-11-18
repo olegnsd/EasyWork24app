@@ -1,0 +1,1 @@
+<div class="depts_group" dept_pid="{DEPT_PID}" row="{ROW}"><div style="margin-left:-5px">{DEPTS_LIST}</div><div class="clear"></div></div>

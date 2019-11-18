@@ -1,0 +1,1 @@
+ | <a href="javascript:;" class="link" onclick="get_cnews_item('{CNEWS_ID}',0,'edit')">редактировать</a> |  <a href="javascript:;" class="link" onclick="delete_cnews('{CNEWS_ID}')">удалить</a>

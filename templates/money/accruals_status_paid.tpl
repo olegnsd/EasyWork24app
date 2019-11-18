@@ -1,0 +1,1 @@
+<span style="color:#14a725"><b>Выплачено</b></span>

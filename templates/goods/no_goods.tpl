@@ -1,0 +1,1 @@
+<div class="no_contents">Имущества нет.</div>

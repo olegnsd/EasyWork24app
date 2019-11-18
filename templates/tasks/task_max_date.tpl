@@ -1,0 +1,1 @@
+<div class="task_desired_date_block"><span class="task_ext_status_warning">!</span>&nbsp; выполнить до <b>{MAX_DATE}</b></div>

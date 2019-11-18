@@ -1,0 +1,1 @@
+<a href="/disk?f={FILE_ID}{PARS}">Свойства</a>

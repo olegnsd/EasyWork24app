@@ -1,0 +1,1 @@
+<div class="edit_tools"><a href="javascript:;" class="delete" onclick="delete_project_report('{REPORT_ID}', '{PROJECT_ID}')"></a></div>

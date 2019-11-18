@@ -1,0 +1,1 @@
+<div class="tn {NT_CLASS}" title="События">{COUNT}</div>

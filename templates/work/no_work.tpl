@@ -1,0 +1,1 @@
+<div class="no_contents">Круг обязанностей пока пуст.</div>

@@ -1,0 +1,1 @@
+<a href="javascript:;" onclick="$('#name_a_file_{FILE_ID}').trigger('click');">Открыть</a>

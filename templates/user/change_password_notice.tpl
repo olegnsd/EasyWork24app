@@ -1,0 +1,1 @@
+<div class="change_password_notice">Придумайте новый пароль</div>

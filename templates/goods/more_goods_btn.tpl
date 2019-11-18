@@ -1,0 +1,1 @@
+<div class="more_list_btn" id="more_goods_btn"><a href="javascript:;" onclick="get_more_goods()" class="link">&darr; показать еще имущество</a></div>

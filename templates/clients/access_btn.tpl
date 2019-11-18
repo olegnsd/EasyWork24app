@@ -1,0 +1,1 @@
+<a href="javascript:;" onclick="get_client_access_block('{CLIENT_ID}')" class="access_btn link">Передать клиента</a>
